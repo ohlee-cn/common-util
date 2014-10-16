@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cn.ohlee.common.util.FileUtilTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 sec - in cn.ohlee.common.util.FileUtilTest
